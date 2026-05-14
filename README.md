@@ -11,4 +11,4 @@
 
 
 
-!(https://github-stats-dealer.onrender.com/api/stats)
+![Моя GitHub статистика](https://github-stats-dealer.onrender.com/api/stats)
