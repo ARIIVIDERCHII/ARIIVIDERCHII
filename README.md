@@ -10,6 +10,5 @@
 <br/>
 
 <!-- Твоя статистика с защитой от кеша -->
-<img src="https://github-stats-dealer.onrender.com/api/stats?cache_id={{ date }}" alt="GitHub Stats" width="100%">
-
+![Моя GitHub статистика](https://github-stats-dealer.onrender.com/api/stats)
 </div>
