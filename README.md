@@ -4,3 +4,11 @@
   <source media="(prefers-color-scheme: light)" srcset="mario-final.svg?sanitize=true">
   <img alt="Mario Contributions" src="mario-final.svg?sanitize=true">
 </picture>
+
+
+
+
+
+
+
+!(https://github-stats-dealer.onrender.com/api/stats)
